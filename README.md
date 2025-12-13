@@ -9,3 +9,7 @@ to ensure file integrity. It is implemented in Python using the built-in
 - Detect added, removed, modified, and unchanged files
 - Simple command-line interface
 - JSON-based baseline for easy storage and review
+
+## Usage
+python file_integrity_checker.py init <path to folder> baseline.json
+python file_integrity_checker.py check <path to folder> baseline.json

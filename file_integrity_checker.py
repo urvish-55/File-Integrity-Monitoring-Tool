@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Simple File Integrity Checker
-Author: <Your Name>
+Author: Urvish Kharate
 Internship: CODTECH IT SOLUTIONS
 
 Features:

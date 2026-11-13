@@ -1,4 +1,4 @@
-# File Integrity Checker (CODTECH Internship – Task 1)
+# File Integrity Monitoring Tool
 
 This tool monitors changes in files by calculating and comparing hash values
 to ensure file integrity. It is implemented in Python using the built-in
